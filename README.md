@@ -309,7 +309,7 @@ Abaixo está a tabela com os arquivos individuais de cada estado, seus tamanhos 
 <details><summary><b>Baixe Aqui um Banco de Dados Completo para Testes</b></summary>
 <br>
 
-Acre - Outubro/2024 - ![Download](files/AC.db)
+Acre - Outubro/2024 - ![Download](files/AC.zip)
 
 Para melhor visualização do Banco de Dados, use o SQLite Studio.<br>
 Link: https://sqlitestudio.pl/
