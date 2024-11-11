@@ -2,7 +2,6 @@
 
 <audio controls>
   <source src="files/music.mp3" type="audio/mpeg">
-  Seu navegador não suporta o elemento de áudio.
 </audio>
 
 <table>
