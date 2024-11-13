@@ -21,18 +21,7 @@
     </tr>
 </table>
 
-<details open><summary><b>Motivos para Comprar</b></summary>
-<br>
-
-Adquirir um banco de dados completo em `SQLite3` com informações de todas as empresas do estado oferece vantagens essenciais em comparação com o uso de planilhas Excel. Enquanto o Excel apresenta uma limitação de aproximadamente 1 milhão de linhas por tabela, o que inviabiliza seu uso para grandes volumes de dados, o SQLite3 permite armazenar e acessar milhões de registros sem restrições desse tipo. Essa característica é especialmente importante em um banco de dados estadual ou nacional, onde o número de empresas pode facilmente ultrapassar essa capacidade.
-<br><br>
-Além disso, o Excel não facilita a integração com dados de outras cidades ou regiões, tornando o processo de análise complexa e interligada mais trabalhoso e menos eficiente. Em contrapartida, o SQLite3 oferece um banco de dados relacional unificado e com grande capacidade de expansão, permitindo que dados de diversas localidades sejam acessados e analisados em conjunto, sem a necessidade de dividir informações em múltiplas planilhas. Assim, o uso do SQLite3 para um banco de dados amplo garante eficiência, velocidade de consulta e flexibilidade na integração de dados, sendo uma solução muito mais robusta e escalável para análise de informações empresariais a nível estadual ou nacional.
-<br>
-<br>
-</details>
-
-
-<details><summary><b>Vantagens de Usar os Dados Públicos do CNPJ da Receita Federal</b></summary>
+<details><summary><b>💥 Vantagens de Usar os Dados Públicos do CNPJ da Receita Federal</b></summary>
 <br>
 Os dados públicos do CNPJ da Receita Federal proporcionam uma ampla gama de benefícios para empresas e empreendedores, ajudando a impulsionar o crescimento e a eficiência. A seguir, vamos explorar algumas das maneiras pelas quais você pode tirar proveito desses dados, com exemplos de produtos e negócios que vendem bem!
 
@@ -136,7 +125,7 @@ Conhecendo a localização das empresas, você pode melhorar sua logística e di
 </details>
 
 
-<details><summary><b>Sobre os Dados</b></summary>
+<details><summary><b>💥 Sobre os Dados</b></summary>
 
 ## Detalhamento dos Dados Disponíveis
 
@@ -202,7 +191,7 @@ Este repositório oferece uma visão abrangente e detalhada das informações em
 
 </details>
 
-<details open><summary><b>Dados Gratuitos para Download</b></summary>
+<details open><summary><b>💥 Dados Gratuitos para Download</b></summary>
 <br>
 Os dados a seguir são completos, contendo todos os dados disponibilizados pela Receita Federal 
 
@@ -230,8 +219,9 @@ Os dados a seguir são completos, contendo todos os dados disponibilizados pela 
 
 </details>
 
-<details><summary><b>Como Baixar os Dados</b></summary>
+<details><summary><b>💥 Como Baixar os Dados</b></summary>
 <br>
+  
 **Instruções sobre como baixar os dados**
 <br>
 
@@ -256,7 +246,7 @@ Exemplo: https://github.com/cnpjbrazil/OUT-2024-NORTE/.
 ![](files/3.png)
 </details>
 
-<details><summary><b>Como Adquirir e Valores</b></summary>
+<details><summary><b>💥 Como Adquirir e Valores</b></summary>
 
 ## Vantagens de um Banco de Dados Centralizado em `SQLITE3`
 ## 📁 Tabela de Arquivos, Tamanhos e Valores
@@ -306,7 +296,7 @@ Abaixo está a tabela com os arquivos individuais de cada estado, seus tamanhos 
 
 </details>
 
-<details><summary><b>Baixe Aqui um Banco de Dados Completo para Testes</b></summary>
+<details><summary><b>💥 Baixe Aqui um Banco de Dados Completo para Testes</b></summary>
 <br>
 
 Acre - Outubro/2024 - ![Download](files/AC.zip)
@@ -319,4 +309,14 @@ Link: https://sqlitestudio.pl/
 ![](files/4.png)
 
 
+</details>
+
+<details open><summary><b>💥 Motivos para Comprar</b></summary>
+<br>
+
+Adquirir um banco de dados completo em `SQLite3` com informações de todas as empresas do estado oferece vantagens essenciais em comparação com o uso de planilhas Excel. Enquanto o Excel apresenta uma limitação de aproximadamente 1 milhão de linhas por tabela, o que inviabiliza seu uso para grandes volumes de dados, o SQLite3 permite armazenar e acessar milhões de registros sem restrições desse tipo. Essa característica é especialmente importante em um banco de dados estadual ou nacional, onde o número de empresas pode facilmente ultrapassar essa capacidade.
+<br><br>
+Além disso, o Excel não facilita a integração com dados de outras cidades ou regiões, tornando o processo de análise complexa e interligada mais trabalhoso e menos eficiente. Em contrapartida, o SQLite3 oferece um banco de dados relacional unificado e com grande capacidade de expansão, permitindo que dados de diversas localidades sejam acessados e analisados em conjunto, sem a necessidade de dividir informações em múltiplas planilhas. Assim, o uso do SQLite3 para um banco de dados amplo garante eficiência, velocidade de consulta e flexibilidade na integração de dados, sendo uma solução muito mais robusta e escalável para análise de informações empresariais a nível estadual ou nacional.
+<br>
+<br>
 </details>
