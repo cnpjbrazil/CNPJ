@@ -195,12 +195,20 @@ Este repositório oferece uma visão abrangente e detalhada das informações em
 <br>
 Os dados a seguir são completos, contendo todos os dados disponibilizados pela Receita Federal 
 
-## Versão: Junho/2024 <br>
-**Centro-Oeste** - https://github.com/cnpjbrazil/CENTRO-OESTE-JUN-2024/ <br>
-**Nordeste** - https://github.com/cnpjbrazil/NORDESTE-JUN-2024/ <br>
-**Norte** - https://github.com/cnpjbrazil/NORTE-JUN-2024/ <br>
-**Sudeste** - https://github.com/cnpjbrazil/SUDESTE-JUN-2024/ <br>
-**Sul** - https://github.com/cnpjbrazil/SUL-JUN-2024/ <br>
+
+## Versão: Novembro/2024 <br>
+**Centro-Oeste** - https://github.com/cnpjbrazil/NOV-2024-CENTRO-OESTE/ <br>
+**Nordeste** - https://github.com/cnpjbrazil/NOV-2024-NORDESTE/ <br>
+**Norte** - https://github.com/cnpjbrazil/NOV-2024-NORTE/ <br>
+**Sudeste** - https://github.com/cnpjbrazil/NOV-2024-SUDESTE/ <br>
+**Sul** - https://github.com/cnpjbrazil/NOV-2024-SUL/ <br>
+
+## Versão: Outubro/2024 <br>
+**Centro-Oeste** - https://github.com/cnpjbrazil/OUT-2024-CENTRO-OESTE/ <br>
+**Nordeste** - https://github.com/cnpjbrazil/OUT-2024-NORDESTE/ <br>
+**Norte** - https://github.com/cnpjbrazil/OUT-2024-NORTE/ <br>
+**Sudeste** - https://github.com/cnpjbrazil/OUT-2024-SUDESTE/ <br>
+**Sul** - https://github.com/cnpjbrazil/OUT-2024-SUL/ <br>
 
 ## Versão: Setembro/2024 <br>
 **Centro-Oeste** - https://github.com/cnpjbrazil/CENTRO-OESTE-SET-2024/ <br>
@@ -209,12 +217,12 @@ Os dados a seguir são completos, contendo todos os dados disponibilizados pela 
 **Sudeste** - https://github.com/cnpjbrazil/SUDESTE-SET-2024/ <br>
 **Sul** - https://github.com/cnpjbrazil/SUL-SET-2024/ <br>
 
-## Versão: Outubro/2024 <br>
-**Centro-Oeste** - https://github.com/cnpjbrazil/OUT-2024-CENTRO-OESTE/ <br>
-**Nordeste** - https://github.com/cnpjbrazil/OUT-2024-NORDESTE/ <br>
-**Norte** - https://github.com/cnpjbrazil/OUT-2024-NORTE/ <br>
-**Sudeste** - https://github.com/cnpjbrazil/OUT-2024-SUDESTE/ <br>
-**Sul** - https://github.com/cnpjbrazil/OUT-2024-SUL/ <br>
+## Versão: Junho/2024 <br>
+**Centro-Oeste** - https://github.com/cnpjbrazil/CENTRO-OESTE-JUN-2024/ <br>
+**Nordeste** - https://github.com/cnpjbrazil/NORDESTE-JUN-2024/ <br>
+**Norte** - https://github.com/cnpjbrazil/NORTE-JUN-2024/ <br>
+**Sudeste** - https://github.com/cnpjbrazil/SUDESTE-JUN-2024/ <br>
+**Sul** - https://github.com/cnpjbrazil/SUL-JUN-2024/ <br>
 
 
 </details>
