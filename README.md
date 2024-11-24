@@ -313,9 +313,9 @@ Abaixo está a tabela com os arquivos individuais de cada estado, seus tamanhos 
 Acre - Outubro/2024 - ![Download](files/AC.zip)
 
 Para melhor visualização do Banco de Dados, use o SQLite Studio.<br>
-Link: https://sqlitestudio.pl/
+Link: https://sqlitestudio.pl/ <br>
 
-<br>
+Para melhor compreensão do banco de dados e como utilizá-lo com o SQLiteStudio, veja a secção [Tutoriais](/tutoriais/main.md)
 
 ![](files/4.png)
 

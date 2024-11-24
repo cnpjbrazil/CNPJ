@@ -1,6 +1,6 @@
 [VOLTAR AO INÍCIO](main.md)
 
-# Como pesquisar sócios #
+# Como utilizar o SQLiteStudio e o banco de dados #
 
 Neste tutorial, utilizaremos o SQLiteStudio como software para abrir e consultar bancos de dados no formato SQLite3. O SQLiteStudio é uma ferramenta prática e intuitiva, que pode ser baixada diretamente pelo link: https://sqlitestudio.pl/. Com ela, é possível abrir múltiplos bancos de dados, realizar consultas e exportar os dados em formato CSV, compatível com softwares como Microsoft Excel, Power BI e Google Sheets, entre outros.
 
