@@ -285,23 +285,24 @@ Abaixo está a tabela com os arquivos individuais de cada estado, seus tamanhos 
 
 | Arquivo | Tamanho (MB) | Valor (R$) | Arquivo | Tamanho (MB) | Valor (R$) |
 |---------|--------------|------------|---------|--------------|------------|
-| AC.db   | 48,20        | R$ 20,00   | PA.db   | 422.70       | R$ 20,00   |
+| AC.db   | 48,20        | R$ 20,00   | PA.db   | 422,70       | R$ 20,00   |
 | AL.db   | 189,80       | R$ 20,00   | PB.db   | 252,10       | R$ 20,00   |
-| AM.db   | 218,90       | R$ 20,00   | PE.db   | 597,70       | R$ 27,59   |
+| AM.db   | 218,90       | R$ 20,00   | PE.db   | 597,70       | R$ 20,00   |
 | AP.db   | 45,40        | R$ 20,00   | PI.db   | 172,10       | R$ 20,00   |
-| BA.db   | 1024,00      | R$ 47,44   | PR.db   | 1433,60      | R$ 64,42   |
-| BR.db   | 0,31         | R$ 20,00   | RJ.db   | 1843,20      | R$ 82,53   |
+| BA.db   | 1024,00      | R$ 23,72   | PR.db   | 1433,60      | R$ 32,21   |
+| BR.db   | 0,31         | R$ 20,00   | RJ.db   | 1843,20      | R$ 41,26   |
 | CE.db   | 561,60       | R$ 25,88   | RN.db   | 235,30       | R$ 20,00   |
 | DF.db   | 393,90       | R$ 20,00   | RO.db   | 144,90       | R$ 20,00   |
-| ES.db   | 438,60       | R$ 20,20   | RR.db   | 41,00        | R$ 20,00   |
-| EX.db   | 35,60        | R$ 20,00   | RS.db   | 1433,60      | R$ 62,63   |
-| GO.db   | 771,50       | R$ 35,41   | SC.db   | 970,70       | R$ 44,48   |
+| ES.db   | 438,60       | R$ 20,10   | RR.db   | 41,00        | R$ 20,00   |
+| EX.db   | 35,60        | R$ 20,00   | RS.db   | 1433,60      | R$ 31,31   |
+| GO.db   | 771,50       | R$ 20,00   | SC.db   | 970,70       | R$ 22,24   |
 | MA.db   | 299,20       | R$ 20,00   | SE.db   | 136,00       | R$ 20,00   |
-| MG.db   | 2252,80      | R$ 100,83  | SP.db   | 6144,00      | R$ 274,97  |
+| MG.db   | 2252,80      | R$ 50,42   | SP.db   | 6144,00      | R$ 137,49  |
 | MS.db   | 271,50       | R$ 20,00   | TO.db   | 143,50       | R$ 20,00   |
 | MT.db   | 394,80       | R$ 20,00   |         |              |            |
 
-* **Adquira um único arquivo contendo todos os registros do Brasil (Aprox. 20GB) ou todos os bancos de dados individuais por apenas `R$ 450,00`. O download estará disponível via Google Drive por 24 horas.**
+
+* **Adquira um único arquivo contendo todos os registros do Brasil (Aprox. 20GB) ou todos os bancos de dados individuais por apenas `R$ 250,00`. O download estará disponível via Google Drive por 24 horas.**
 * **Todos os arquivos de bancos de dados são disponibilizados em `SQLITE3`.**
 
 </details>
