@@ -7,3 +7,5 @@
 [SIMPLES](SIMPLES.md) - Como realizar pesquisas baseadas na tabela simples.<br>
 [EMPRESAS](EMPRESAS.md) - Como realizar pesquisas baseadas na tabela empresas.<br>
 [ESTABELECIMENTOS](ESTABELECIMENTOS.md) - Como realizar pesquisas baseadas na tabela estabelecimentos.<br>
+
+Dúvidas ou sugestões? Envie um email para cnpjbrazil.github@gmail.com
