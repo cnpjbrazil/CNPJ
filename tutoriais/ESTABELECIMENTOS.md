@@ -31,7 +31,7 @@ A tabela 'EMPRESAS' contém as informações sobre a empresa como CNPJ, razão s
 `DDD_FAX`: Código de Discagem Direta à Distância (DDD) do fax da empresa, se houver.<BR>
 `FAX`: Número do fax da empresa, se houver.<BR>
 `CORREIO_ELETRONICO`: Endereço de e-mail da empresa, se fornecido.<BR>
-`SITUACAO_ESPECIAL`: Status adicional que pode ser atribuído à empresa em situações específicas (ex.: recuperação judicial, falência). (ver códigos na tabela `MOTIVOS`).<BR>
+`SITUACAO_ESPECIAL`: Status adicional que pode ser atribuído à empresa em situações específicas (ex.: recuperação judicial, falência).<BR>
 `DATA_SITUACAO_ESPECIAL`: Data em que foi registrada uma situação especial para a empresa.<BR>
 
 
