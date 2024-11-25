@@ -52,3 +52,5 @@ Ao exportar os dados, selecione o formato "CSV", escolha o local onde o arquivo 
 ![Imagem 9](SQLITE/9.png)
 
 Agora, você poderá exportar qualquer consulta no formato CSV, incluindo informações como situação cadastral, quadro societário, endereços e telefones de empresas e estabelecimentos. Além disso, é possível filtrar os dados conforme suas necessidades antes de realizar a exportação.
+
+[VOLTAR](SQLITE.md)
