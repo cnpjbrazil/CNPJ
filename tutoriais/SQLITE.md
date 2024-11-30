@@ -1,10 +1,35 @@
+<link rel="stylesheet" href="files/styles.css">
+
+<audio controls>
+  <source src="files/music.mp3" type="audio/mpeg">
+</audio>
+
+<table>
+    <tr>
+        <td><img src="../files/logo.png"></td>
+        <td><img src="../files/logo.png"></td>
+        <td><img src="../files/logo.png"></td>
+        <td><img src="../files/logo.png"></td>
+        <td><img src="../files/logo.png"></td>
+        <td><img src="../files/logo.png"></td>
+        <td><img src="../files/logo.png"></td>
+        <td><img src="../files/logo.png"></td>
+        <td><img src="../files/logo.png"></td>
+        <td><img src="../files/logo.png"></td>
+    <tr>
+    <td colspan="10" align="center"><h1 style="color: black;font-weight: bold;">CNPJ Brazil - Empoderando seus negócios</td>
+    </tr>
+</table>
+
+<p align="center"><mark> :loudspeaker: 	Envie email para <b>cnpjbrazil.github@gmail.com</b> </mark></p>
+
 [VOLTAR AO INÍCIO](main.md)
 
 # Como utilizar o SQLiteStudio e o banco de dados #
 
 Neste tutorial, utilizaremos o SQLiteStudio como software para abrir e consultar bancos de dados no formato SQLite3. O SQLiteStudio é uma ferramenta prática e intuitiva, que pode ser baixada diretamente pelo link: https://sqlitestudio.pl/. Com ela, é possível abrir múltiplos bancos de dados, realizar consultas e exportar os dados em formato CSV, compatível com softwares como Microsoft Excel, Power BI e Google Sheets, entre outros.
 
-O banco de dados utilizado neste tutorial contém informações completas de empresas em todo o Brasil. No entanto, para simplificar, usaremos um banco de dados menor, com informações apenas do estado do Acre. Para fazer o download, [clique aqui](../files/AC.zip) e em seguida selecione o botão "Download Raw File". Após o download, descompacte o arquivo para utilizá-lo no tutorial.
+O banco de dados utilizado neste tutorial contém informações completas de empresas em todo o Brasil. No entanto, para simplificar, usaremos um banco de dados menor, com informações apenas do estado do Acre. Para fazer o download, [clique aqui](https://github.com/cnpjbrazil/CNPJ/raw/main/files/AC.zip) e em seguida selecione o botão "Download Raw File". Após o download, descompacte o arquivo para utilizá-lo no tutorial.
 
 ![Imagem 0](SQLITE/0.png)
 

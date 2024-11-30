@@ -21,15 +21,34 @@
     </tr>
 </table>
 
-## Tutoriais --> [AQUI](tutoriais/main.md) ##
+<p align="center"><mark> :loudspeaker: 	Envie email para <b>cnpjbrazil.github@gmail.com</b> </mark></p>
 
-<details><summary><b>💥 Vantagens de Usar os Dados Públicos do CNPJ da Receita Federal</b></summary>
+<details open><summary><b><mark>:loudspeaker: Anúncios</mark></b></summary>
+<br>
+Adicionados:
+  
+- *Dados RFB Julho/2024 Completo (Excel)*
+- *Dados RFB Setembro/2024 Completo (Excel)*
+- *Dados RFB Outubro/2024 Completo (Excel)*
+- *Dados RFB Novembro/2024 Completo (Excel)*
+- *Banco de Dados Acre Outubro/2024 para testes [![Download SQLite Database](https://github.com/cnpjbrazil/CNPJ/raw/main/files/AC.zip)]*
+- <mark>*Tutorial Banco de Dados + SQLiteStudio (Ver "Tutoriais")*</mark>
+  
+Em breve:
+
+- *Script em Python para extração de dados*
+- *Script em Python para gerar relatórios em PDF*
+- *Pesquisa de dados via Telegram*
+
+</details>
+
+<details><summary><mark><b>💥 Conheça as Vantagens de usar os Dados Públicos do CNPJ</b></mark></summary>
 <br>
 Os dados públicos do CNPJ da Receita Federal proporcionam uma ampla gama de benefícios para empresas e empreendedores, ajudando a impulsionar o crescimento e a eficiência. A seguir, vamos explorar algumas das maneiras pelas quais você pode tirar proveito desses dados, com exemplos de produtos e negócios que vendem bem!
 
 ---
 
-### 🔍 Encontre Novos Clientes e Fornecedores
+#### 🔍 Encontre Novos Clientes e Fornecedores
 
 Com os dados do CNPJ, é possível descobrir onde estão os melhores clientes e fornecedores para o seu negócio. Por exemplo:
 
@@ -53,7 +72,7 @@ Outros exemplos incluem:
 
 ---
 
-### 📊 Conheça o Mercado e a Concorrência
+#### 📊 Conheça o Mercado e a Concorrência
 
 Os dados do CNPJ ajudam você a entender melhor o mercado e a concorrência. Você pode ver, por exemplo:
 
@@ -63,7 +82,7 @@ Os dados do CNPJ ajudam você a entender melhor o mercado e a concorrência. Voc
 
 ---
 
-### 🏢 Conheça os Donos das Empresas
+#### 🏢 Conheça os Donos das Empresas
 
 Com os dados do CNPJ, você pode ver quem são os donos das empresas e descobrir se eles são sócios de outras empresas. Isso é útil para:
 
@@ -73,7 +92,7 @@ Com os dados do CNPJ, você pode ver quem são os donos das empresas e descobrir
 
 ---
 
-### 💼 Facilite a Prospecção e Venda
+#### 💼 Facilite a Prospecção e Venda
 
 Os dados do CNPJ facilitam encontrar novos clientes para os seus produtos ou serviços. Por exemplo:
 
@@ -83,7 +102,7 @@ Os dados do CNPJ facilitam encontrar novos clientes para os seus produtos ou ser
 
 ---
 
-### 📬 Tenha Informações de Contato Precisas
+#### 📬 Tenha Informações de Contato Precisas
 
 Os dados do CNPJ incluem informações de contato, como endereço e telefone, facilitando o contato direto com outras empresas:
 
@@ -93,7 +112,7 @@ Os dados do CNPJ incluem informações de contato, como endereço e telefone, fa
 
 ---
 
-### 📊 Verifique a Confiabilidade de Fornecedores e Clientes
+#### 📊 Verifique a Confiabilidade de Fornecedores e Clientes
 
 Antes de fazer negócios, é importante saber se o fornecedor ou cliente é confiável:
 
@@ -103,7 +122,7 @@ Antes de fazer negócios, é importante saber se o fornecedor ou cliente é conf
 
 ---
 
-### 🚚 Melhore sua Logística e Distribuição
+#### 🚚 Melhore sua Logística e Distribuição
 
 Conhecendo a localização das empresas, você pode melhorar sua logística e distribuição:
 
@@ -113,7 +132,7 @@ Conhecendo a localização das empresas, você pode melhorar sua logística e di
 
 ---
 
-### 🌟 Exemplos Reais de Uso
+#### 🌟 Exemplos Reais de Uso
 
 - **Cosméticos**: Uma empresa de cosméticos encontrou 50 novos salões de beleza interessados em seus produtos, aumentando suas vendas significativamente.
 - **Oficinas Mecânicas**: Um fornecedor de peças de carro conseguiu novos contratos com 30 oficinas, elevando seu faturamento em 40%.
@@ -123,15 +142,23 @@ Conhecendo a localização das empresas, você pode melhorar sua logística e di
 
 **Explore as vantagens de usar os dados do CNPJ e descubra novas oportunidades para crescer o seu negócio! Aproveite essa chance para melhorar suas operações e conquistar mais clientes!**
 
+</details>
+
+<details><summary><b><mark>💥 Motivos para adquirir um Banco de Dados em SQLite3</mark></b></summary>
+<br>
+Adquirir um banco de dados completo em `SQLite3` com informações de todas as empresas do estado oferece vantagens essenciais em comparação com o uso de planilhas Excel. Enquanto o Excel apresenta uma limitação de aproximadamente 1 milhão de linhas por tabela, o que inviabiliza seu uso para grandes volumes de dados, o SQLite3 permite armazenar e acessar milhões de registros sem restrições desse tipo. Essa característica é especialmente importante em um banco de dados estadual ou nacional, onde o número de empresas pode facilmente ultrapassar essa capacidade.
+<br><br>
+Além disso, o Excel não facilita a integração com dados de outras cidades ou regiões, tornando o processo de análise complexa e interligada mais trabalhoso e menos eficiente. Em contrapartida, o SQLite3 oferece um banco de dados relacional unificado e com grande capacidade de expansão, permitindo que dados de diversas localidades sejam acessados e analisados em conjunto, sem a necessidade de dividir informações em múltiplas planilhas. Assim, o uso do SQLite3 para um banco de dados amplo garante eficiência, velocidade de consulta e flexibilidade na integração de dados, sendo uma solução muito mais robusta e escalável para análise de informações empresariais a nível estadual ou nacional.
 
 </details>
 
 
-<details><summary><b>💥 Sobre os Dados</b></summary>
-
-## Detalhamento dos Dados Disponíveis
+<details><summary><b><mark>💥 Detalhamento dos Dados Disponíveis</mark></b></summary>
 
 Este repositório contém dados detalhados de empresas e estabelecimentos, incluindo:
+
+---
+### Dados Cadastrais, Endereços, Telefones
 
 - **CNPJ**
 - **Identificação** (Matriz ou Filial)
@@ -152,7 +179,7 @@ Este repositório contém dados detalhados de empresas e estabelecimentos, inclu
 
 ---
 
-## Quadro Societário
+### Quadro Societário
 
 - **CNPJ**
 - **Nome do Sócio**
@@ -166,7 +193,8 @@ Este repositório contém dados detalhados de empresas e estabelecimentos, inclu
 - **Faixa Etária do Sócio**
 
 ---
-## Organização dos Arquivos
+
+### Organização dos Arquivos
 
 Os dados são organizados por região do país, por exemplo, Centro-Oeste, Nordeste, Norte, Sudeste e Sul. Para cidades com mais de 1 milhão de registros, os dados estão divididos em 10 arquivos, conforme exemplo abaixo para Belo Horizonte:
 
@@ -183,7 +211,7 @@ Os dados são organizados por região do país, por exemplo, Centro-Oeste, Norde
 
 ---
 
-## Notas Importantes
+#### Notas Importantes
 
 - **Arquivos Grandes**: Os arquivos com mais de 50MB estão compactados em formato `.zip` e divididos em partes de até 50MB, conforme limite do GitHub.
 
@@ -193,50 +221,44 @@ Este repositório oferece uma visão abrangente e detalhada das informações em
 
 </details>
 
-<details open><summary><b>💥 Dados Gratuitos para Download</b></summary>
+<details open><summary><b><mark>💥 Dados Gratuitos para Download</mark></b></summary>
 <br>
-Os dados a seguir são completos, contendo todos os dados disponibilizados pela Receita Federal 
 
+Os dados a seguir são completos em planilhas de Excel, contendo todos os dados disponibilizados pela Receita Federal 
 
-## Versão: Novembro/2024 <br>
-**Centro-Oeste** - https://github.com/cnpjbrazil/NOV-2024-CENTRO-OESTE/ <br>
-**Nordeste** - https://github.com/cnpjbrazil/NOV-2024-NORDESTE/ <br>
-**Norte** - https://github.com/cnpjbrazil/NOV-2024-NORTE/ <br>
-**Sudeste** - https://github.com/cnpjbrazil/NOV-2024-SUDESTE/ <br>
-**Sul** - https://github.com/cnpjbrazil/NOV-2024-SUL/ <br>
+<b>Novembro/2024 (Versão Completa)</b><br>
+*Centro-Oeste* - https://github.com/cnpjbrazil/NOV-2024-CENTRO-OESTE/ <br>
+*Nordeste* - https://github.com/cnpjbrazil/NOV-2024-NORDESTE/ <br>
+*Norte* - https://github.com/cnpjbrazil/NOV-2024-NORTE/ <br>
+*Sudeste* - https://github.com/cnpjbrazil/NOV-2024-SUDESTE/ <br>
+*Sul* - https://github.com/cnpjbrazil/NOV-2024-SUL/ <br>
 
-## Versão: Outubro/2024 <br>
-**Centro-Oeste** - https://github.com/cnpjbrazil/OUT-2024-CENTRO-OESTE/ <br>
-**Nordeste** - https://github.com/cnpjbrazil/OUT-2024-NORDESTE/ <br>
-**Norte** - https://github.com/cnpjbrazil/OUT-2024-NORTE/ <br>
-**Sudeste** - https://github.com/cnpjbrazil/OUT-2024-SUDESTE/ <br>
-**Sul** - https://github.com/cnpjbrazil/OUT-2024-SUL/ <br>
+<b>Outubro/2024 (Versão Completa)</b><br>
+*Centro-Oeste* - https://github.com/cnpjbrazil/OUT-2024-CENTRO-OESTE/ <br>
+*Nordeste* - https://github.com/cnpjbrazil/OUT-2024-NORDESTE/ <br>
+*Norte* - https://github.com/cnpjbrazil/OUT-2024-NORTE/ <br>
+*Sudeste* - https://github.com/cnpjbrazil/OUT-2024-SUDESTE/ <br>
+*Sul* - https://github.com/cnpjbrazil/OUT-2024-SUL/ <br>
 
-## Versão: Setembro/2024 <br>
-**Centro-Oeste** - https://github.com/cnpjbrazil/CENTRO-OESTE-SET-2024/ <br>
-**Nordeste** - https://github.com/cnpjbrazil/NORDESTE-SET-2024/ <br>
-**Norte** - https://github.com/cnpjbrazil/NORTE-SET-2024/ <br>
-**Sudeste** - https://github.com/cnpjbrazil/SUDESTE-SET-2024/ <br>
-**Sul** - https://github.com/cnpjbrazil/SUL-SET-2024/ <br>
+<b>Setembro/2024 (Versão Completa)</b><br>
+*Centro-Oeste* - https://github.com/cnpjbrazil/CENTRO-OESTE-SET-2024/ <br>
+*Nordeste* - https://github.com/cnpjbrazil/NORDESTE-SET-2024/ <br>
+*Norte* - https://github.com/cnpjbrazil/NORTE-SET-2024/ <br>
+*Sudeste* - https://github.com/cnpjbrazil/SUDESTE-SET-2024/ <br>
+*Sul* - https://github.com/cnpjbrazil/SUL-SET-2024/ <br>
 
-## Versão: Junho/2024 <br>
-**Centro-Oeste** - https://github.com/cnpjbrazil/CENTRO-OESTE-JUN-2024/ <br>
-**Nordeste** - https://github.com/cnpjbrazil/NORDESTE-JUN-2024/ <br>
-**Norte** - https://github.com/cnpjbrazil/NORTE-JUN-2024/ <br>
-**Sudeste** - https://github.com/cnpjbrazil/SUDESTE-JUN-2024/ <br>
-**Sul** - https://github.com/cnpjbrazil/SUL-JUN-2024/ <br>
-
+<b>Junho/2024 (Versão Completa)</b><br>
+*Centro-Oeste* - https://github.com/cnpjbrazil/CENTRO-OESTE-JUN-2024/ <br>
+*Nordeste* - https://github.com/cnpjbrazil/NORDESTE-JUN-2024/ <br>
+*Norte* - https://github.com/cnpjbrazil/NORTE-JUN-2024/ <br>
+*Sudeste* - https://github.com/cnpjbrazil/SUDESTE-JUN-2024/ <br>
+*Sul* - https://github.com/cnpjbrazil/SUL-JUN-2024/ <br>
 
 </details>
 
-<details><summary><b>💥 Como Baixar os Dados</b></summary>
-<br>
-  
-**Instruções sobre como baixar os dados**
-<br>
+<details><summary><b><mark>💥 Instruções sobre como baixar os dados</mark></b></summary>
 
-## Notas Importantes
-
+#### Notas Importantes
 - **Arquivos Grandes**: Os arquivos com mais de 50MB estão compactados em formato `.zip` e divididos em partes de até 50MB, conforme limite do GitHub, então baixar `exemplo.zip`, `exemplo.z01`, `exemplo.z02` e assim por diante (usar o winrar ou winzip para descompactar).
 
 
@@ -256,10 +278,10 @@ Exemplo: https://github.com/cnpjbrazil/OUT-2024-NORTE/.
 ![](files/3.png)
 </details>
 
-<details><summary><b>💥 Como Adquirir e Valores</b></summary>
+<details><summary><b><mark>💥 Como Adquirir um Banco de Dados SQLite</mark></b></summary>
 
-## Vantagens de um Banco de Dados Centralizado em `SQLITE3`
-## 📁 Tabela de Arquivos, Tamanhos e Valores
+#### Vantagens de um Banco de Dados Centralizado em `SQLITE3`
+#### 📁 Tabela de Arquivos, Tamanhos e Valores
 
 Este repositório oferece de forma gratuita dados completos de CNPJs e dados empresariais no formato Excel a partir dos dados disponibilizados pela Receita Federal. Veja abaixo as vantagens de adquirir um banco de dados centralizado disponível em `SQLITE3` e veja comparação com baixar arquivos Excel individuais de cada cidade:
 
@@ -271,7 +293,7 @@ Este repositório oferece de forma gratuita dados completos de CNPJs e dados emp
 
 - **Desenvolvimento de Aplicações:** Para desenvolvedores, um banco de dados centralizado simplifica o desenvolvimento de aplicações que dependem de informações empresariais, como sistemas de CRM, ferramentas de marketing digital e análise de mercado.
 
-## Opções de Aquisição
+#### Opções de Aquisição
 
 Oferecemos duas opções principais para aquisição dos dados:
 
@@ -307,10 +329,10 @@ Abaixo está a tabela com os arquivos individuais de cada estado, seus tamanhos 
 
 </details>
 
-<details><summary><b>💥 Baixe Aqui um Banco de Dados Completo para Testes</b></summary>
+<details><summary><b><mark>💥 Baixe Aqui um Banco de Dados Completo para Testes</mark></b></summary>
 <br>
 
-Acre - Outubro/2024 - ![Download](files/AC.zip)
+Acre - Outubro/2024 - [[Download](https://github.com/cnpjbrazil/CNPJ/raw/main/files/AC.zip)]
 
 Para melhor visualização do Banco de Dados, use o SQLite Studio.<br>
 Link: https://sqlitestudio.pl/ <br>
@@ -319,15 +341,16 @@ Para melhor compreensão do banco de dados e como utilizá-lo com o SQLiteStudio
 
 ![](files/4.png)
 
+</details>
+
+<details><summary><b><mark>:books: Tutoriais</mark></b></summary>
+<br>
+
+1. [Banco de Dados SQLite3](tutoriais/SQLITE.md) - Como baixar, abrir banco de dados e exportar consultas.<br>
+2. [Pesquisa na Tabela Sócios](tutoriais/SOCIOS.md) - Pesquisar sócios por nome parcial, nome completo, por CNPJ, data de entrada na sociedade, cpf, pesquisa por mais de campo e como exportar dados em CSV para abrir no Excel, PowerBI ou Google Docs.<br>
+3. [Pesquisa na Tabela Simples](tutoriais/SIMPLES.md) - Pesquisar empresas pelo CNPJ, Optante pelo Simples Nacional ou pelo MEI, assim como data de entrada ou saída de cada regime e como mesclar dados de outra tabela.<br>
+4. [Pesquisa na Tabela Empresas](tutoriais/EMPRESAS.md) - Pesquisar empresas por CNPJ, nome parcial ou completo da Razão Social ou Nome Fantasia, busca filtrada por mais de um campo.<br>
+5. [Pesquisa na Tabela Estabelecimentos](tutoriais/ESTABELECIMENTOS.md) - Pesquisar dados completos de estabelecimentos, como CNPJ, endereços, telefones, emails, atividades econômicas, situação cadastral e como combinar dados de outras tabelas.<br>
 
 </details>
 
-<details open><summary><b>💥 Motivos para Comprar</b></summary>
-<br>
-
-Adquirir um banco de dados completo em `SQLite3` com informações de todas as empresas do estado oferece vantagens essenciais em comparação com o uso de planilhas Excel. Enquanto o Excel apresenta uma limitação de aproximadamente 1 milhão de linhas por tabela, o que inviabiliza seu uso para grandes volumes de dados, o SQLite3 permite armazenar e acessar milhões de registros sem restrições desse tipo. Essa característica é especialmente importante em um banco de dados estadual ou nacional, onde o número de empresas pode facilmente ultrapassar essa capacidade.
-<br><br>
-Além disso, o Excel não facilita a integração com dados de outras cidades ou regiões, tornando o processo de análise complexa e interligada mais trabalhoso e menos eficiente. Em contrapartida, o SQLite3 oferece um banco de dados relacional unificado e com grande capacidade de expansão, permitindo que dados de diversas localidades sejam acessados e analisados em conjunto, sem a necessidade de dividir informações em múltiplas planilhas. Assim, o uso do SQLite3 para um banco de dados amplo garante eficiência, velocidade de consulta e flexibilidade na integração de dados, sendo uma solução muito mais robusta e escalável para análise de informações empresariais a nível estadual ou nacional.
-<br>
-<br>
-</details>
