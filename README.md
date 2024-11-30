@@ -31,7 +31,7 @@ Adicionados:
 - *Dados RFB Setembro/2024 Completo (Excel)*
 - *Dados RFB Outubro/2024 Completo (Excel)*
 - *Dados RFB Novembro/2024 Completo (Excel)*
-- *Banco de Dados Acre Outubro/2024 para testes [![Download SQLite Database](https://github.com/cnpjbrazil/CNPJ/raw/main/files/AC.zip)]*
+- *Banco de Dados Acre Outubro/2024 para testes [[Download SQLite Database](https://github.com/cnpjbrazil/CNPJ/raw/main/files/AC.zip)]*
 - <mark>*Tutorial Banco de Dados + SQLiteStudio (Ver "Tutoriais")*</mark>
   
 Em breve:
