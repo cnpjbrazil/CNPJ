@@ -21,7 +21,7 @@
     </tr>
 </table>
 
-<p align="center"><mark> :loudspeaker: 	Envie email para <b>cnpjbrazil.github@gmail.com</b> </mark></p>
+<p align="center"><mark> :loudspeaker: 	Envie email para <b>cnpjbrazil.github@gmail.com</b> para adquirir um Banco de Dados completo em SQLITE3</mark></p>
 
 <details open><summary><b><mark>:loudspeaker: Anúncios</mark></b></summary>
 <br>
