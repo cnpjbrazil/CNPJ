@@ -22,7 +22,7 @@
 </table>
 
 <p align="center"><mark> :loudspeaker: 	Envie email para <b>cnpjbrazil.github@gmail.com</b> para adquirir um Banco de Dados completo em SQLITE3 por R$150,00.</mark></p>
-<p align="center"><mark> :loudspeaker: 	Para acesso as planilhas atualizadas em nosso <b>Google Drive por R$15,00</b>b> entre em contato. Necessário conta Google para ter acesso.</mark></p>
+<p align="center"><mark> :loudspeaker: 	Para acesso as planilhas DEZ/2024 em nosso <b>Google Drive por R$15,00</b> entre em contato. Necessário conta Google para ter acesso.</mark></p>
 
 <details open><summary><b><mark>:loudspeaker: Anúncios</mark></b></summary>
 <br>
