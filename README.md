@@ -24,6 +24,18 @@
 <p align="center"><mark> :loudspeaker: 	Envie email para <b>cnpjbrazil.github@gmail.com</b> para adquirir um Banco de Dados completo em SQLITE3 por R$150,00.</mark></p>
 <p align="center"><mark> :loudspeaker: 	Para acesso as planilhas <b>ATUALIZADAS</b> em nosso <b>Google Drive por R$35,00/mês</b> entre em contato. Necessário conta Google.</mark></p>
 
+## 📲 Agora estamos no Instagram!
+
+<a href="https://www.instagram.com/cnpjbrazil" target="_blank">
+  <img src="./Instagram.jpeg" alt="Instagram CNPJ Brazil" width="300"/>
+</a>
+
+📸 Siga o perfil [@cnpjbrazil](https://www.instagram.com/cnpjbrazil) no Instagram!
+
+💥 **Promoção Especial:**
+Adicione nosso perfil, marque **3 amigos** e receba **gratuitamente** o **link do Google Drive para planilhas atualizadas versão Light** de todas as cidades brasileiras direto na **DM do Instagram**!
+
+
 <details open><summary><b><mark>:loudspeaker: Anúncios</mark></b></summary>
 <br>
 Adicionados:
