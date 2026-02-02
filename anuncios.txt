@@ -1,0 +1,10 @@
+# 🚀 CNPJ Data Extractor v2026.1
+## 📊 Transforme dados brutos da Receita Federal em insights estruturados.
+Este projeto automatiza a extração, limpeza e conversão da base de dados pública de CNPJs. Converta tabelas complexas do SQLite para formatos amigáveis como JSON e TXT otimizados.
+
+🔥 Funcionalidades Principais
+⚡ Extração Ultrarrápida: Processamento otimizado de municípios agrupados por UF.
+
+🛠️ CLI Pronta para Uso: Controle tudo via terminal sem tocar no código.
+
+🧹 Limpeza Automática: Tratamento de encoding (Latin1 para UTF-8) e remoção de caracteres especiais.
