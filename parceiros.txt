@@ -1,8 +1,40 @@
-{"empresa":"NVIDIA","link":"https://www.nvidia.com/","image":"https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg"}
-{"empresa":"INTEL","link":"https://www.intel.com/","image":"https://cdn.simpleicons.org/intel/0071C5"}
-{"empresa":"META/FACEBOOK","link":"https://www.meta.com/","image":"https://cdn.simpleicons.org/meta/0467DF"}
-{"empresa":"GOOGLE","link":"https://about.google/","image":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"}
-{"empresa":"MICROSOFT","link":"https://www.microsoft.com/","image":"https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"}
-{"empresa":"APPLE","link":"https://www.apple.com/","image":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"}
-{"empresa":"ANUNCIE AQUI","link":"https://wa.me/5553991675790?text=Olá,%20quero%20anunciar%20no%20banner%20de%20parceiros.","image":"https://dummyimage.com/600x400/000000/ffffff.png&text=Anuncie+aqui!"}
-{"empresa":"ANUNCIE AQUI","link":"https://wa.me/5553991675790?text=Olá,%20quero%20anunciar%20no%20banner%20de%20parceiros.","image":"https://dummyimage.com/600x400/000000/ffffff.png&text=Anuncie+aqui!"}
+[{
+      "titulo": "Microsoft",
+      "descricao": "Tecnologia, produtividade e computação em nuvem",
+      "texto": "Conheça soluções como Microsoft 365, Azure, Windows e ferramentas de inteligência artificial para empresas e profissionais.",
+      "imagem": "https://www.google.com/s2/favicons?domain_url=https://www.microsoft.com&sz=256",
+      "site": "https://www.microsoft.com",
+      "botao": "Conhecer a Microsoft"
+    },
+    {
+      "titulo": "Meta",
+      "descricao": "Conectividade, comunicação e experiências digitais",
+      "texto": "Explore as plataformas e tecnologias da Meta, incluindo Facebook, Instagram, WhatsApp e soluções voltadas para empresas.",
+      "imagem": "https://www.google.com/s2/favicons?domain_url=https://www.meta.com&sz=256",
+      "site": "https://www.meta.com",
+      "botao": "Visitar a Meta"
+    },
+    {
+      "titulo": "IBM",
+      "descricao": "Inteligência artificial, nuvem híbrida e serviços empresariais",
+      "texto": "Conheça tecnologias da IBM para análise de dados, automação, segurança, infraestrutura e inteligência artificial.",
+      "imagem": "https://www.google.com/s2/favicons?domain_url=https://www.ibm.com&sz=256",
+      "site": "https://www.ibm.com",
+      "botao": "Conhecer a IBM"
+    },
+    {
+      "titulo": "Apple",
+      "descricao": "Dispositivos, software e serviços digitais",
+      "texto": "Conheça produtos e serviços Apple, como Mac, iPhone, iPad, Apple Watch e soluções para produtividade e criatividade.",
+      "imagem": "https://www.google.com/s2/favicons?domain_url=https://www.apple.com&sz=256",
+      "site": "https://www.apple.com",
+      "botao": "Visitar a Apple"
+    },
+    {
+      "titulo": "Dell Technologies",
+      "descricao": "Computadores, servidores e infraestrutura tecnológica",
+      "texto": "Encontre notebooks, desktops, monitores, servidores e soluções de infraestrutura para uso pessoal, profissional e empresarial.",
+      "imagem": "https://www.google.com/s2/favicons?domain_url=https://www.dell.com&sz=256",
+      "site": "https://www.dell.com",
+      "botao": "Conhecer a Dell"
+    }]
